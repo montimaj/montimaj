@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Sayantan
-- 👀 My research interests include remote sensing, machine learning, geospatial data analytics, and scientific software development.
-- 🌱 I’m currently a Postdoctoral Fellow at <a href=https://www.colostate.edu>Colorado State University</a>
-- 💞️ I’m looking for full-time roles in national labs, industry, or academia.
+- 👋 Hi, I’m Sayantan. I also go by Monty.
+- 👀 My research interests include hydrology, remote sensing, machine learning, geospatial data analytics, and scientific software development.
+- 🌱 I’m currently an Assistant Research Professor of Hydrologic Sciences and Remote Sensing at the <a href=https://www.dri.edu>Desert Research Institute</a> in Reno, Nevada, USA.
 - 📫 monti.majumdar@gmail.com, https://www.linkedin.com/in/sayantanmajumdar/
 
 <!---
