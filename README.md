@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sayantanmajumdar-blue)](https://www.linkedin.com/in/sayantanmajumdar/)
 [![GitHub](https://img.shields.io/badge/GitHub-montimaj-green)](https://github.com/montimaj)
-<a href="mailto:sayantan.majumdar@dri.edu"><img src="https://img.shields.io/badge/Email-sayantan.majumdar@dri.edu-red" alt="Email"></a>
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-iYlO--VcAAAAJ-blue)](https://scholar.google.com/citations?user=iYlO-VcAAAAJ&hl=en)
 <a href="https://www.dri.edu/directory/sayantan-majumdar/"><img src="https://img.shields.io/badge/Website-DRI%20Profile-lightgrey" alt="DRI Profile"></a>
 
 ---
