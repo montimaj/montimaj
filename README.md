@@ -39,10 +39,11 @@ I am an Assistant Research Professor of Hydrologic Sciences and Remote Sensing a
 
 * **Ph.D. in Geological Engineering**
     * *Missouri University of Science and Technology, USA*
-    * Dissertation: "Groundwater Withdrawal Estimation using Integrated Remote Sensing Products and Machine Learning"
+    * Dissertation: ["Groundwater Withdrawal Estimation using Integrated Remote Sensing Products and Machine Learning"](https://scholarsmine.mst.edu/doctoral_dissertations/3230/)
 
 * **M.Sc. in Geoinformatics** (Graduated Cum Laude)
     * *Faculty ITC, University of Twente, Netherlands*
+    * Thesis: ["Snow depth and SWE estimation using Spaceborne Polarimetric and Interferometric Synthetic Aperture Radar"](https://essay.utwente.nl/83533/1/majumdar.pdf)
 
 * **M.Sc. & B.Sc. in Computer Science** (Graduated First Class)
     * *St. Xavier's College (Autonomous) Kolkata, India*
@@ -103,7 +104,9 @@ See my [Google Scholar](https://scholar.google.com/citations?user=iYlO-VcAAAAJ&h
     * Thazhal Geospatial Analytics (Aug 2023-present)
     * Mizu Risk Lab (Mar 2024-present)
     * Oregon Water Resources Department (OWRD) Technical Advisory Group
-* **Panel Reviewer:**
-    * NASA Early Career Investigator Program in Earth Science (ECIP-ES)
+* **Panelist:**
+    * NSF GEO/RISE 2025   
+    * NASA Early Career Investigator Program in Earth Science (ECIP-ES) 2023
     * NASA ROSES 2023
+* **Journal Reviewer:** Served as a manuscript reviewer for numerous journals, including *Nature Communications*, *AGU Water Resources Research*, *Elsevier Remote Sensing of Environment*, *Journal of Hydrology*, *Agricultural Water Management*, *IEEE Transactions on Geoscience and Remote Sensing*, and others.
 
