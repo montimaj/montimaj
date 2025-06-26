@@ -7,7 +7,7 @@ montimaj/montimaj is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Dr. Sayantan Majumdar
+# Dr. Sayantan "Monty" Majumdar
 
 **Assistant Research Professor of Hydrologic Sciences and Remote Sensing**
 [Desert Research Institute (DRI)](https://www.dri.edu/), Reno, NV, USA
@@ -78,18 +78,13 @@ I am an Assistant Research Professor of Hydrologic Sciences and Remote Sensing a
 
 ---
 
-### Technical Skills
-
-* **Programming Languages:** Python, R, Java, C++
-* **Tools & Platforms:** Google Cloud, Docker, Google Earth Engine, ArcGIS, QGIS, PyCharm, Jupyter Notebook
-
----
-
 ### Selected Publications
 See my [Google Scholar](https://scholar.google.com/citations?user=iYlO-VcAAAAJ&hl=en) page for a full list of publications. 
 #### Journal Articles
 
 * Ott, T. J., **Majumdar, S.**, Huntington, J. L., et al. (2024). "[Toward field-scale groundwater pumping and improved groundwater management using remote sensing and climate data](https://doi.org/10.1016/j.agwat.2024.109000)." *Agricultural Water Management*. [*Equal contribution*].
+* Tolan, J., Yang, H.-I., ..., **Majumdar, S.**, et al. (2024). "[Very high resolution canopy height maps from RGB imagery using self-supervised vision transformer and convolutional decoder trained on aerial lidar](https://doi.org/10.1016/j.rse.2023.113888)." *Remote Sensing of Environment*.
+* Hasan, M. F., Smith, R., Vajedian, S., Pommerenke, R., & **Majumdar, S.** (2023). "[Global land subsidence mapping reveals widespread loss of aquifer storage capacity](https://doi.org/10.1038/s41467-023-41933-z)." *Nature Communications*.
 * **Majumdar, S.**, Smith, R. G., Hasan, M. F., et al. (2024). "[Improving crop-specific groundwater use estimation in the Mississippi Alluvial Plain: Implications for integrated remote sensing and machine learning approaches in data-scarce regions](https://doi.org/10.1016/j.ejrh.2024.101674)." *Journal of Hydrology: Regional Studies*.
 * Hasan, M. F., Smith, R., Vajedian, S., Pommerenke, R., & **Majumdar, S.** (2023). "[Global land subsidence mapping reveals widespread loss of aquifer storage capacity](https://doi.org/10.1038/s41467-023-41933-z)." *Nature Communications*.
 * **Majumdar, S.**, Smith, R., Conway, B. D., & Lakshmi, V. (2022). "[Advancing remote sensing and machine learning-driven frameworks for groundwater withdrawal estimation in Arizona: Linking land subsidence to groundwater withdrawals](https://doi.org/10.1002/hyp.14757)." *Hydrological Processes*.
@@ -97,6 +92,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=iYlO-VcAAAAJ&h
 #### Data & Software
 * **Majumdar, S.**, Smith, R. G., Hasan, M. F., et al. (2024). "[Aquaculture and Irrigation Water Use Model (AIWUM) 2.0 input and output datasets](https://doi.org/10.5066/P9CET25K)." *U.S. Geological Survey data release*.
 * **Majumdar, S.**, Smith, R. G., Hasan, M. F., et al. (2024). "[Aquaculture and Irrigation Water Use Model 2.0 software](https://doi.org/10.5066/P137FIUZ)." *U.S. Geological Survey software release*.
+* Tolan, J., Yang, H.-I., ..., **Majumdar, S.**, et al. (2023). "High Resolution Canopy Height Maps by WRI and Meta." *Meta and World Resources Institute (WRI)*. [Data Link](https://registry.opendata.aws/dataforgood-fb-forests/) | [Code Link](https://github.com/facebookresearch/HighResCanopyHeight).
 
 ---
 
