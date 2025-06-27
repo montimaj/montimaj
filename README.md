@@ -87,7 +87,6 @@ See my [Google Scholar](https://scholar.google.com/citations?user=iYlO-VcAAAAJ&h
 * Tolan, J., Yang, H.-I., ..., **Majumdar, S.**, et al. (2024). "[Very high resolution canopy height maps from RGB imagery using self-supervised vision transformer and convolutional decoder trained on aerial lidar](https://doi.org/10.1016/j.rse.2023.113888)." *Remote Sensing of Environment*.
 * Hasan, M. F., Smith, R., Vajedian, S., Pommerenke, R., & **Majumdar, S.** (2023). "[Global land subsidence mapping reveals widespread loss of aquifer storage capacity](https://doi.org/10.1038/s41467-023-41933-z)." *Nature Communications*.
 * **Majumdar, S.**, Smith, R. G., Hasan, M. F., et al. (2024). "[Improving crop-specific groundwater use estimation in the Mississippi Alluvial Plain: Implications for integrated remote sensing and machine learning approaches in data-scarce regions](https://doi.org/10.1016/j.ejrh.2024.101674)." *Journal of Hydrology: Regional Studies*.
-* Hasan, M. F., Smith, R., Vajedian, S., Pommerenke, R., & **Majumdar, S.** (2023). "[Global land subsidence mapping reveals widespread loss of aquifer storage capacity](https://doi.org/10.1038/s41467-023-41933-z)." *Nature Communications*.
 * **Majumdar, S.**, Smith, R., Conway, B. D., & Lakshmi, V. (2022). "[Advancing remote sensing and machine learning-driven frameworks for groundwater withdrawal estimation in Arizona: Linking land subsidence to groundwater withdrawals](https://doi.org/10.1002/hyp.14757)." *Hydrological Processes*.
 
 #### Data & Software
