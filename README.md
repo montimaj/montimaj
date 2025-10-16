@@ -83,6 +83,7 @@ I am an Assistant Research Professor of Hydrologic Sciences and Remote Sensing a
 See my [Google Scholar](https://scholar.google.com/citations?user=iYlO-VcAAAAJ&hl=en) page for a full list of publications. 
 #### Journal Articles
 
+* Hasan, M. F., Smith, R. G., **Majumdar, S.**, Huntington, J. L., Neto, A. A. M., & Minor, B.A. (2025). "[Satellite data and physics-constrained machine learning for estimating effective precipitation in the Western United States and application for monitoring groundwater irrigation]([https://doi.org/10.1016/j.agwat.2024.109000](https://doi.org/10.1016/j.agwat.2025.109821))." *Agricultural Water Management*.
 * Ott, T. J., **Majumdar, S.**, Huntington, J. L., et al. (2024). "[Toward field-scale groundwater pumping and improved groundwater management using remote sensing and climate data](https://doi.org/10.1016/j.agwat.2024.109000)." *Agricultural Water Management*. [*Equal contribution*].
 * Tolan, J., Yang, H.-I., ..., **Majumdar, S.**, et al. (2024). "[Very high resolution canopy height maps from RGB imagery using self-supervised vision transformer and convolutional decoder trained on aerial lidar](https://doi.org/10.1016/j.rse.2023.113888)." *Remote Sensing of Environment*.
 * Hasan, M. F., Smith, R., Vajedian, S., Pommerenke, R., & **Majumdar, S.** (2023). "[Global land subsidence mapping reveals widespread loss of aquifer storage capacity](https://doi.org/10.1038/s41467-023-41933-z)." *Nature Communications*.
