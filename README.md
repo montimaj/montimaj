@@ -50,7 +50,7 @@ I am an Assistant Research Professor of Hydrologic Sciences and Remote Sensing a
 
 ---
 
-### Research and Work Experience
+### Previous Research and Work Experience
 
 * **Postdoctoral Fellow** | Colorado State University, Fort Collins, CO, USA (Sep 2022 - Jun 2023)
     * Worked with the U.S. Geological Survey (USGS) on using machine learning and hydrologic remote sensing to estimate agricultural water use.
